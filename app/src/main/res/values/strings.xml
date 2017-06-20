@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ItunesApp</string>
+    <string name="result_limit_label">Limit: </string>
+    <string name="reset_button">Reset</string>
+    <string name="search_button">Search</string>
+    <string name="date">Date</string>
+    <string name="price">Price</string>
+    <string name="sort_by">Sort by:</string>
+    <string name="results_label">Results Below</string>
+    <string name="finish_button">Back</string>
+    <string name="no_keyword_given">Please enter something to search</string>
+    <string name="track_name_detail">Track Name:\u0020</string>
+    <string name="genre_detail">Genre:\u0020</string>
+    <string name="artist_detail">Artist:\u0020</string>
+    <string name="album_detail">Album:\u0020</string>
+    <string name="track_price_detail">Track Price:\u0020</string>
+    <string name="album_price_detail">Ablum Price:\u0020</string>
+    <string name="loading_tracks_dialog">Obtaining Tracks, Please Wait</string>
+    <string name="number_10">10</string>
+</resources>
